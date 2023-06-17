@@ -1,3 +1,4 @@
 * Create project structure, spring boot
 * Add jpa dependency
-* Add dml to add some sample data
+* Add dml to add some sample data (with spring-data maybe, check import.sql approach)
+* Check liquibase
