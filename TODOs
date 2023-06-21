@@ -2,3 +2,5 @@
 * Add jpa dependency
 * Add dml to add some sample data (with spring-data maybe, check import.sql approach)
 * Check liquibase
+* Consider multi-module macen project
+* Decide what modules are needed
