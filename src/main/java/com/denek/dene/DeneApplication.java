@@ -8,6 +8,7 @@ public class DeneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DeneApplication.class, args);
+		System.out.println("Startedddd.......");
 	}
 
 }
